@@ -1,7 +1,7 @@
 # Slack url_verification
 an express app to handle the Slack url_verification event
 
-instructions:
+### Instructions:
   1) place challenge.js in an empty directory
   2) cd into the new directory
   3) $ npm install express
