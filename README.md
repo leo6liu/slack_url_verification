@@ -7,5 +7,7 @@ an express app to handle the Slack url_verification event
   3) $ npm install express
   4) $ npm challenge.js
   5) in Slack verify the Request URL: http://server.url:port/challenge
+  
+url_verification event API: https://api.slack.com/events/url_verification
 
 ![slack verification](slack_verification.png)
